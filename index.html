@@ -16,7 +16,7 @@
 			"use strict";
 			window.addEventListener("load", function() {
 				if(window.location.href.indexOf("file:") === 0) {
-					alert("HTTP please, do not open this file locally, run a local HTTP server and load it via HTTP");
+					alert("Please load it via HTTP or HTTPS. file:// (ChromeOS) or C: (Windows) may fail.");
 				}else {
 					var relayId = Math.floor(Math.random() * 3);
 					window.eaglercraftXOpts = {
