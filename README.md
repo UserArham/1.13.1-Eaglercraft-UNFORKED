@@ -1,29 +1,8 @@
-**New features include changing background, because Mojang did not add it yet so I added it!**
+## Minecraft Java Edition (v1.13.1, u7.04)
 
-Normally, in real Minecraft (in the Minecraft Launcher), you can not change the background.
+**V8 JavaScript or Trident VBScript/JavaScript is required for Eaglercraft**
 
+**Java 9 or 10 is required if you are playing it in the Minecraft Launcher**
 
-
-
-
-
-<img width="705" height="158" alt="image" src="https://github.com/user-attachments/assets/b6651d62-0ad9-4557-8352-96c116258cb4" />
-
-
-
-
-
-
-
-
-
-**But in my one, I fixed it, though limited.**
-
-
-
-
-
-
-
-<img width="1365" height="767" alt="image" src="https://github.com/user-attachments/assets/19d56123-59f9-4f9f-b7e9-932fea252eb2" />
+Welcome to the Eaglercraft client you love; editing backgrounds, creative tuffnet mods, and introduction of colorful adventure. If you are seeing this README, you are the **lucky** one! The hit between 60-120 FPS, the **wonderful** blizz, and you can even get some fun with parrots! You also may get a aquatic adventure, throwing back to **2018** of blizz!
 
