@@ -16,4 +16,4 @@ Gameplay is optimized, not too buggy! I mean, **it goes buggy** when the ZIP is 
 
 ## What's New:
 
-Just optimization and mob ZIPs.
+I deleted the ZIPs because these ZIPs fail to load. It will remain normal alpha 1.13.
